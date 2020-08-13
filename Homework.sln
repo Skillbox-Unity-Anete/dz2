@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30320.27
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework_01", "Homework_01.csproj", "{7FF7F46B-89CD-46C7-994A-D5CB3AA8D718}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework_Theme_01", "Homework2\Homework_Theme_01.csproj", "{19A29861-EDF2-44FF-9C63-FEAE0939348E}"
 EndProject
 Global
@@ -13,10 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7FF7F46B-89CD-46C7-994A-D5CB3AA8D718}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7FF7F46B-89CD-46C7-994A-D5CB3AA8D718}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7FF7F46B-89CD-46C7-994A-D5CB3AA8D718}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7FF7F46B-89CD-46C7-994A-D5CB3AA8D718}.Release|Any CPU.Build.0 = Release|Any CPU
 		{19A29861-EDF2-44FF-9C63-FEAE0939348E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{19A29861-EDF2-44FF-9C63-FEAE0939348E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19A29861-EDF2-44FF-9C63-FEAE0939348E}.Release|Any CPU.ActiveCfg = Release|Any CPU
